@@ -1,6 +1,2 @@
-trying out new commands:
-1. git status
-2. git add "filename"
-3. git commit
-
-modified
+hello there
+Ananya
